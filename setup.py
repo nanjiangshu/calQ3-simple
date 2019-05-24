@@ -10,7 +10,7 @@ setuptools.setup(
 
      version='1.0',
 
-     scripts=['calQ3'] ,
+     scripts=['src/calq3'] ,
 
      author="Nanjiang Shu",
 
