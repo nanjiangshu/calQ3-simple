@@ -8,7 +8,7 @@ setuptools.setup(
 
      name='calq3',  
 
-     version='1.0',
+     version='1.01',
 
      scripts=['src/calq3'] ,
 
