@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-     name='calQ3',  
+     name='calq3',  
 
      version='1.0',
 
